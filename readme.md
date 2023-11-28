@@ -1,6 +1,6 @@
 # Revit - pyRevit
 ## Estrutura do Código
-### O script está organizado em três funções e o main:
+### O script está organizado em quatro funções:
 
 - select_ifc_version: Permite ao usuário selecionar a versão desejada do IFC a partir de uma lista predefinida.
 
