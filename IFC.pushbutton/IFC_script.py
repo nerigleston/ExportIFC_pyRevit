@@ -1,7 +1,7 @@
 # -- coding: utf-8 --
 
 from pyrevit import revit, DB, forms
-from Autodesk.Revit.DB import *
+from Autodesk.Revit.DB import IFCExportOptions, Transaction
 
 
 def select_ifc_version():
