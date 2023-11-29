@@ -1,5 +1,5 @@
 # Revit - pyRevit
-## Estrutura do Código
+## [Estrutura do Código](https://github.com/nerigleston/ExportIFC_pyRevit/blob/main/IFC.pushbutton/IFC_script.py)
 ### O script está organizado em quatro funções:
 
 - select_ifc_version: Permite ao usuário selecionar a versão desejada do IFC a partir de uma lista predefinida.
